@@ -1,0 +1,2 @@
+export const ADD_COUPON = 'ADD_COUPON'
+export const DELETE_COUPON = 'DELETE_COUPON'

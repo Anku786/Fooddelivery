@@ -1,0 +1,6 @@
+export const PAYMENT_DATA = 'PAYMENT_DATA'
+export const PAYMENT ='PAYMENT'
+export const BANK_DETAILS = 'BANK_DETAILS'
+export const BANK = 'BANK'
+export const ORDER = 'ORDER'
+export const ORDER_DATA = 'ORDER_DATA'
